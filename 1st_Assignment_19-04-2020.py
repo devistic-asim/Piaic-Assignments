@@ -37,5 +37,9 @@ elif a  == "4":
 elif a  == "5":
     print("Modulus of "+ str(fnum)+ " and "+ str(snum)+ " is : ",(fnum / snum * 100))
     
+elif a  != "1,2,3,4,5":
+    print("Please Enter Correct Number to Perform Action")    
+    
 print("----------------------------------------------------------")    
+        
     
