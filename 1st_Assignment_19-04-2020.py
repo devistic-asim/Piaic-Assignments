@@ -14,7 +14,7 @@ a = input('''Select Following Digit to Perform Mathematical Function:
 3 for division /
 4 for multiplication *
 5 for modulus %
-\nYou Enter: ''')
+\nYou Entered: ''')
 print("----------------------------------------------------------")
 
 fnum=int(input("Please Enter 1st Number:  "))
