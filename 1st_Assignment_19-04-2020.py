@@ -2,7 +2,7 @@
 #Calculator Functions
 #Muhammad Asim
 #Roll No: PIAIC 138498
-#Batch 7
+#Batch-7 AI Karachi
 
 print("----------------------------------------------------------")
 print("\t\t Mathematical Functions")
